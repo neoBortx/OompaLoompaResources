@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Oompa Loompas Resources</string>
+    <string name="profession">Profession</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="both">Both</string>
+    <string name="error_message">Oops, something went wrong</string>
+    <string name="love">Things that loves</string>
+</resources>
